@@ -25,8 +25,8 @@
 (2095 + 799) / 100
 
 // How to round numbers:
-Math.round(2.2)
-Math.round(2.8)
+console.log(Math.round(2.2));
+console.log(Math.round(2.8));
 
-((2095 + 799) * 0.1) / 100
+console.log(((2095 + 799) * 0.1) / 100);
 Math.round((2095 + 799) * 0.1) / 100
