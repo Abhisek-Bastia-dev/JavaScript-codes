@@ -29,4 +29,4 @@ console.log(Math.round(2.2));
 console.log(Math.round(2.8));
 
 console.log(((2095 + 799) * 0.1) / 100);
-Math.round((2095 + 799) * 0.1) / 100
+console.log(Math.round((2095 + 799) * 0.1) / 100);
