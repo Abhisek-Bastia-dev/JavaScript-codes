@@ -26,5 +26,12 @@ This repository contains my JavaScript practice code and exercises while learnin
 ## 🚀 Progress
 
 - [ ] JavaScript Basics
+- [ ] Math and Numbers
+- [ ] Strings
+- [ ] HTML CSS Review, console.log
+- [ ] Variables
+- [ ] Booleans and If-Statements
+- [ ] Functions
+- [ ] Objects
 
 (Will update as I learn more)
