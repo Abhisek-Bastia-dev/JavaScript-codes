@@ -33,5 +33,6 @@ This repository contains my JavaScript practice code and exercises while learnin
 - [ ] Booleans and If-Statements
 - [ ] Functions
 - [ ] Objects
+- [ ] DOM
 
 (Will update as I learn more)
