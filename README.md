@@ -34,5 +34,7 @@ This repository contains my JavaScript practice code and exercises while learnin
 - [ ] Functions
 - [ ] Objects
 - [ ] DOM
+- [ ] Arrays and Loops
+- [ ] Advanced Function
 
-(Will update as I learn more)
+-End of Basic JavaScript
